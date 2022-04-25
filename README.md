@@ -1,2 +1,2 @@
-# HelloWorld-jsPDF
-Hello World utilizando jsPDF e Ajax 
+# HelloWorld com jsPDF
+Hello World simples utilizando jsPDF e Ajax para gerar um documento PDF.
